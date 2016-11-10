@@ -4,6 +4,5 @@ Android app update check and downLoad manger.
 
 
 
-More:http://www.jianshu.com/p/92bb85fc07e8  
-
-https://github.com/KevinsGitHub/retrofit2-progress-download-master
+#More
+https://github.com/AnyLifeZLB/Retrofit2.0_Demo
