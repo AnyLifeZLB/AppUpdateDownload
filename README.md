@@ -6,4 +6,4 @@ Android app update check and downLoad manger.
 
 More:http://www.jianshu.com/p/92bb85fc07e8  
 
-https://github.com/lingochamp/FileDownloader
+https://github.com/KevinsGitHub/retrofit2-progress-download-master
