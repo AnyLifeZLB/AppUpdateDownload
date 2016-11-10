@@ -6,4 +6,5 @@ Android app update check and downLoad manger.with retrofit2 & rxjava
 
 
 #More
+本项目不再维护
 https://github.com/AnyLifeZLB/Retrofit2.0_Demo
