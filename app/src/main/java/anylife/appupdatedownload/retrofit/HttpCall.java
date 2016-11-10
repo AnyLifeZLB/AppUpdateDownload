@@ -87,7 +87,7 @@ public class HttpCall {
 							.header("Authorization", TOKEN)
 							.build();
 
-					if (null != progressListener) {
+					if (null == progressListener) {
 						return chain.proceed(authorisedRequest);
 					} else {
 						Response originalResponse = chain.proceed(authorisedRequest);
